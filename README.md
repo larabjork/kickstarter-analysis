@@ -30,3 +30,6 @@ As shown in the chart below, more than half of the 912 theater campaigns in US w
 ![bar chart showing outcomes of theater kickstarters in the United States](https://github.com/larabjork/kickstarter-analysis/blob/main/Outcomes-US-Theater.png)
 
 ### Outcomes for Campaigns to Fund Plays in Great Britain in the United States
+As shown in the chart below...
+![bar chart showing outcomes of kickstarters for plays in Great Britain and the United States]()
+
