@@ -26,7 +26,7 @@ This color-coding assists in scanning the data, but it does not help answer most
 
 ### Outcomes for All Types of Theater Campaigns in the US
 As shown in the chart below, more than half of the 912 theater campaigns in US were successful (58%). However, the next largest category (at 38%) represents failed campaigns. The remaining 3% of campaigns were either canceled (2%) or live at the time of data reporting (1%).
-
-![Outcomes-US-Theater](/Users/lbjork/Desktop/Bootcamp /1. Crowdfunding analysis/Outcomes-US-Theater.png)
+![enter image description here](https://i.imgur.com/UStodOA.jpg "read")
+![bar chart showing outcomes of theater kickstarters in the United States]()
 
 ### Outcomes for Campaigns to Fund Plays in Great Britain in the United States
