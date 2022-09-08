@@ -1,2 +1,32 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+# An Analysis of Kickstarter Campaigns
+
+## Project Background
+Louise, an emerging artist and playwright, wants to launch a Kickstarter to support a new production of her play, _Fever_. The estimated budget for the play is $12,000. She requested an analysis of Kickstarter data to help her understand factors influencing the success of past Kickstarter campaigns. 
+
+Because the data set that Louise obtained includes a wider variety of projects than she is interested in, she has asked for a focus on 
+* theater projects and not in other types of projects
+* plays and musicals as subcategories of theater projects
+* projects in the United States and Great Britain
+* successful and failed projects, with cancelled and ongoing/live projects as less interesting
+* the effect of timing of the Kickstarter's launch affect success (i.e., what time of year is most successful, if any)
+* comparisons of Kickstarter goals and actual pledges received
+* five specific productions held in Edinburgh that were funded through Kickstarter: _Be Prepared_, Checkpoint 22_, _Cutting Off Kate Bush_, _Jestia and Raedon_, and _The Hitchhikers's Guide to the Family_.
+
+The original data set and the results from the data analysis are presented in the accompanying Excel file. A summary of the analysis and conclusions drawn from it is presented below.
+
+### Success Versus Failure
+The first step in the analysis process was to provide color-coding based on the status of each campaign: 
+
+* succcessful (green): the campaign goal was met or, in some cases, exceeded
+* canceled (yellow): the campaign was ended by the organizer
+* live (blue): the campaign was active at the time that the data was obtained
+* failed (red): the campaign did not meet its stated goal by the campaign deadline.
+
+This color-coding assists in scanning the data, but it does not help answer most of Louise's questions. Therefore more analyses were conducted.
+
+### Outcomes for All Types of Theater Campaigns in the US
+As shown in the chart below, more than half of the 912 theater campaigns in US were successful (58%). However, the next largest category (at 38%) represents failed campaigns. The remaining 3% of campaigns were either canceled (2%) or live at the time of data reporting (1%).
+
+![Outcomes-US-Theater](/Users/lbjork/Desktop/Bootcamp /1. Crowdfunding analysis/Outcomes-US-Theater.png)
+
+### Outcomes for Campaigns to Fund Plays in Great Britain in the United States
