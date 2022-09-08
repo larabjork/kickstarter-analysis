@@ -32,7 +32,7 @@ As shown in the chart below, more than half of the 912 theater campaigns in US w
 ### Outcomes for Campaigns to Fund Plays in Great Britain in the United States
 As shown in the chart below, Kickstarters to fund plays in both countries have largely been successful. Although fewer total campaigns have been launched in Great Britain (314 versus 671 in the United States), the success rate is greater in Great Britain (76% versus 61%). 
 ![bar chart showing outcomes of kickstarters for plays in Great Britain and the United States](
-https://github.com/larabjork/kickstarter-analysis/blob/main/Outcomes-Plays-GB-UK.png)
+https://github.com/larabjork/kickstarter-analysis/blob/main/Outcomes-Plays-GB-US.png)
 
 ### Effect of Launch Timing on Theater Kickstarters in the United States
 As shown below, the highest number of successful Kickstarters for plays occurred for plays launched in May.
@@ -46,17 +46,17 @@ The US Kickstarter for _Walken on Sunshine_ was successful, with an average dona
 #### Information about Edinburgh Productions
 Details requested about five Kickstarters for Edinburgh productions are presented below.
 
-INSERT HERE
+![table with detailed info on five plays](https://github.com/larabjork/kickstarter-analysis/blob/main/Edinburgh-Details.png)
 
 ### Successful Versus Failed Kickstarters for Plays in the United States
 Details here...
 
-INSERT HERE
+![descriptive stats for US plays](https://github.com/larabjork/kickstarter-analysis/blob/main/Descriptive-Stats-US-Plays.png)
 
 ### Goals Versus Pledges for Musicals in Great Britain
 Based on Louise's interest in another project, the success of campaigns for musicals in Great Britan was also analyzed. As shown...
 
-INSERT HERE
+![box and whisker plot for kickstarters supporting musicals in Great Britain](https://github.com/larabjork/kickstarter-analysis/blob/main/Box-whisker-GB-Musicals.png)
 
 
 
